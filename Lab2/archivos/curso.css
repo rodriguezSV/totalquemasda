@@ -1,0 +1,57 @@
+p {
+    /* this a comment */
+    color:white; background-color:gray;
+}
+
+#intro{
+    /* This is a comment */
+    color:white;background-color:gray;
+}
+
+#intro .first em{
+    color:lightblue;
+    background-color:gray;
+    font-size:small;
+}
+
+#intro .second em{
+    color:lightcoral;
+    background-color:gray;
+}
+
+#intro .third em{
+    color:lightgreen;
+    background-color:gray;
+}
+
+p.serif{
+    font-family:"Times New Roman", Times, serif;
+}
+
+p.monospace{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1.header1{
+    font-family:Florence, cursive;
+}
+
+h2.fantasy{
+    font-family: Blippo, fantasy;
+}
+
+p.small{
+    font-size:small;
+}
+
+p.medium{
+    font-size:medium;
+}
+
+p.large{
+    font-size:large;
+}
+
+p.xlarge{
+    font-size:x-large;
+}

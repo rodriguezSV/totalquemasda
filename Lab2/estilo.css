@@ -1,0 +1,19 @@
+*{
+    font-family:arial;
+}
+
+h1{
+    background-color:#f0d1cb; border-bottom: solid 2px #18181d;
+    font-size:14pt;text-transform: uppercase;height: 30px;
+}
+
+input[type="submit"], input[type="button"]{
+    background-color:#f0d1cb;
+    width:200px;height:30px;
+    border: solid 2px black;    
+}
+
+table tr td{
+    padding: 10px;
+}
+
